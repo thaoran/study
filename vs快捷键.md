@@ -1,6 +1,6 @@
 # 快捷键
 
-- shift键快速切换中文半角和英文半角 
+- shift键快速切换中文半角和英文半角
 - shift+空格 切换全角/半角
 - Ctrl+K+D:快速对齐代码
 - Ctrl+Z:撤销
@@ -12,3 +12,4 @@
 - F1：转到帮助文档
 - 折叠冗余代码：#Region 和#EndRegion
 - 选定一个单词 Ctrl+Shift+W
+- VS删除一行代码快捷键：ctrl+l

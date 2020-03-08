@@ -3,7 +3,7 @@
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
     "files.encoding": "gbk",
-    "editor.fontSize": 16,
+    "editor.fontSize": 18,
     "editor.fontFamily": "Source Code Pro",
     "git.path": "D:\\Git\\bin\\git.exe",
 }
