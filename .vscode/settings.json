@@ -6,4 +6,9 @@
     "editor.fontSize": 18,
     "editor.fontFamily": "Source Code Pro",
     "git.path": "D:\\Git\\bin\\git.exe",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "stdio.h": "c"
+    },
 }
