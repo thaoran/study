@@ -1,3 +1,4 @@
+//100以内的素数
 #include <stdlib.h>
 #include <stdio.h>
 int main()
